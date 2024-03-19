@@ -2,7 +2,7 @@
   "$schema": "../node_modules/@lobehub/chat-plugin-sdk/schema.json",
   "api": [
     {
-      "url": "https://bilibili.chat-plugin.lobehub.com/api/search",
+      "url": "https://bilibili.chat-plugin.cleek.id/api/search",
       "name": "searchVideo",
       "description": "Search videos by keywords",
       "parameters": {
@@ -17,7 +17,7 @@
       }
     },
     {
-      "url": "https://bilibili.chat-plugin.lobehub.com/api/replay",
+      "url": "https://bilibili.chat-plugin.cleek.id/api/replay",
       "name": "videoReplay",
       "description": "get video replay by video avid",
       "parameters": {
@@ -32,7 +32,7 @@
       }
     },
     {
-      "url": "https://bilibili.chat-plugin.lobehub.com/api/danmaku",
+      "url": "https://bilibili.chat-plugin.cleek.id/api/danmaku",
       "name": "videoDanmaku",
       "description": "get video danmaku by video avid",
       "parameters": {
@@ -47,7 +47,7 @@
       }
     },
     {
-      "url": "https://bilibili.chat-plugin.lobehub.com/api/popular",
+      "url": "https://bilibili.chat-plugin.cleek.id/api/popular",
       "name": "popularVideo",
       "description": "get global popular videos from bilibili with no keywords",
       "parameters": {
@@ -56,7 +56,7 @@
       }
     },
     {
-      "url": "https://bilibili.chat-plugin.lobehub.com/api/hot-search",
+      "url": "https://bilibili.chat-plugin.cleek.id/api/hot-search",
       "name": "hotSearch",
       "description": "get hot-search keywords from bilibili, return top 10 keywords",
       "parameters": {
@@ -65,12 +65,12 @@
       }
     }
   ],
-  "author": "LobeHub",
+  "author": "Senja24",
   "createdAt": "2024-01-27",
-  "homepage": "https://github.com/lobehub/chat-plugin-bilibili",
+  "homepage": "https://github.com/senja24/chat-plugin-bilibili",
   "identifier": "bilibili",
   "meta": {
-    "avatar": "https://bilibili.chat-plugin.lobehub.com/logo.webp",
+    "avatar": "https://bilibili.chat-plugin.cleek.id/logo.webp",
     "tags": ["video", "bilibili", "search"],
     "title": "Bilibili",
     "description": "Dive into Bilibili's vast content with features like keyword video search, replay access, interactive danmaku, trending video recommendations, and hot-search insights, all at your fingertips."

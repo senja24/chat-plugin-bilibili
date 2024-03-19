@@ -65,10 +65,10 @@
       }
     }
   ],
-  "author": "LobeHub",
+  "author": "senja24",
   "createdAt": "2024-01-27",
   "gateway": "http://localhost:3400/api/gateway",
-  "homepage": "https://github.com/lobehub/chat-plugin-bilibili",
+  "homepage": "https://github.com/senja24/chat-plugin-bilibili",
   "identifier": "bilibili",
   "meta": {
     "avatar": "http://localhost:3400/logo.webp",
